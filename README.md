@@ -1,5 +1,5 @@
 # Group10_Assignment6
-This is the nReadMe.txt for Assignment 6 GGE6505
+This is the ReadMe.txt for Assignment 6 GGE6505
 
 Group 10 consists of the following members: Avery Grouette, Ngoc Phuong Anh Nguyen, Sreemathy Maheswaramoorthy
 
