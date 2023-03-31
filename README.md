@@ -1,6 +1,8 @@
 # Group10_Assignment6
 This is the ReadMe.txt for Assignment 6 GGE6505
 
+Github: https://github.com/AveryGrouette/Group10_Assignment6 
+
 Group 10 consists of the following members: Avery Grouette, Ngoc Phuong Anh Nguyen, Sreemathy Maheswaramoorthy
 
 For clean_data.csv file: The file was taken from the previous assignment. Column headers: Diagnosis, ID, Imaginary Min, Imaginary Real, Real Part Min, Real Part Average, Gender (1, 0), Age, Smoking (1, 2, 3)
